@@ -1,4 +1,3 @@
-<!--
 Project: Todo Task Web Application
 
 Brief
